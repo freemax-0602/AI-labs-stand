@@ -53,6 +53,7 @@ PostgreSQL и MySQL.
 
 ### Windows
 
+```
 Windows
 └── Visual Studio
     └── WSL2
@@ -60,9 +61,11 @@ Windows
             └── Docker
                 ├── PostgreSQL
                 └── MySQL
+```
 
 ### macOS
 
+```
 macOS
 ├── CLion
 └── Linux VM
@@ -70,3 +73,4 @@ macOS
         └── Docker
             ├── PostgreSQL
             └── MySQL
+```
